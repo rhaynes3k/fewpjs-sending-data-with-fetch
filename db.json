@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,50 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "mutty",
+      "dogBreed": "mutt",
+      "id": 3
+    },
+    {
+      "dogName": "mutty",
+      "dogBreed": "mutt",
+      "id": 4
+    },
+    {
+      "dogName": "Fido",
+      "dogBreed": "Dogg",
+      "id": 5
+    },
+    {
+      "dogName": "Rover",
+      "dogBreed": "Doberman",
+      "id": 6
+    },
+    {
+      "dogName": "Finster",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Finster",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Jacky",
+      "dogBreed": "Pit Bull",
+      "id": 9
+    },
+    {
+      "dogName": "Russell",
+      "dogBreed": "Terrier",
+      "id": 10
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +63,48 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Don",
+      "userEmail": "don@me.com",
+      "id": 1
+    },
+    {
+      "userName": "Peter",
+      "userEmail": "petey@me.com",
+      "id": 2
+    },
+    {
+      "userName": "Bob",
+      "userEmail": "bb@me.com",
+      "id": 3
+    },
+    {
+      "userName": "Bob",
+      "userEmail": "bb@me.com",
+      "id": 4
+    },
+    {
+      "userName": "Bob",
+      "userEmail": "bb@me.com",
+      "id": 5
+    },
+    {
+      "userName": "Bob",
+      "userEmail": "bb@me.com",
+      "id": 6
+    },
+    {
+      "userName": "Burt",
+      "userEmail": "burt@me.com",
+      "id": 7
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
